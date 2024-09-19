@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Sofadi+One&display=swap');
 :root{
-    --cor-principal:#f3d009;
-    --cor-secundaria: 	#f1ee16;
-    --cor-texto:	#ffae00;
-    --cor-de-fundo:	#aa671b;
-    
+    --cor-principal:#2773d6;
+    --cor-secundaria: 	#17bec4;
+    --cor-texto:	#26f6fd;
+    --cor-de-fundo:	#54eca0;
+    --font:"Gowun Batang", serif;
 
 }
