@@ -33,4 +33,16 @@ body{
     font-weight: 400;
  }
 
+ nav a{
+    text-decoration: none;
+    color: var(--cor-principal);
+    margin: O 2rem 1rem 0;
+    font-size: 1.2rem;
+
+ }
+ nav a:hover{
+    text-decoration: underline;
+    transform: scale(0.90);
+    transition: transform 0.1s;
+ }
  
