@@ -22,4 +22,9 @@ body{
     
  }
 
+ .cabecalho__titulo{
+    font-size: 2rem;
+    color: var(--cor-texto);    
+ }
+
  
